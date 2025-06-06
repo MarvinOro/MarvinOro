@@ -2,7 +2,7 @@
 
 My name is Marvin, I'm a computer scientist studying at the University of Central Florida interested in embedded software engineering!
 
-- 🔭 I’m currently working on a robot dog with machine olfaction
+- 🔭 I have finished working on a robot dog with machine olfaction
 - 🌱 I’m currently learning Light Detection and Ranging
 - 👯 I’m looking to collaborate on anything involving low level programming!
 
