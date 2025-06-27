@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Marvin, I'm a computer scientist studying at the University of Central Florida interested in embedded software engineering!
+My name is Marvin, I'm a computer scientist graduated from the University of Central Florida, particularly interested in embedded software engineering!
 
 - 🔭 I have finished working on a robot dog with machine olfaction
 - 🌱 I’m currently learning Light Detection and Ranging
