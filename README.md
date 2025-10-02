@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-My name is Marvin, I'm a computer scientist graduated from the University of Central Florida, particularly interested in embedded software engineering!
+My name is Marvin, I'm a computer scientist graduated from the University of Central Florida, particularly interested in embedded software engineering and Backend Development!
 
 - 🔭 I have finished working on a robot dog with machine olfaction
-- 🌱 I’m currently learning Light Detection and Ranging
+- 🌱 I’m currently furthering my skills in Fullstack Development
 - 👯 I’m looking to collaborate on anything involving low level programming!
 
 <!--
